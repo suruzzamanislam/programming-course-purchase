@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "img": "https://t3.ftcdn.net/jpg/02/14/87/96/240_F_214879686_R3HFJlk6WLr1kcdvy6Q9rtNASKN0BZBS.jpg",
+    "name": "Web Development 101",
+    "price": 49.99,
+    "credit": 5,
+    "body": "Learn the fundamentals of web development with HTML, CSS, and JavaScript."
+  },
+  {
+    "id": 2,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThWIZEpRfr26M0rB5Yut6S9dSGqSI5FSIMmA&usqp=CAU",
+    "name": "Python for Data Science",
+    "price": 59.99,
+    "credit": 6,
+    "body": "Master the art of Python programming and dive into data science and machine learning."
+  },
+  {
+    "id": 3,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj02l65HtefC0GZNsSiiTrRvgGWADGGQFy7Q&usqp=CAU",
+    "name": "React Native Mobile Development",
+    "price": 39.99,
+    "credit": 4,
+    "body": "Explore the world of mobile app development with React Native and build cross-platform apps."
+  },
+  {
+    "id": 4,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrP9gYTTFvooLDssPHRkGw40eGwhW_LV876Q&usqp=CAU",
+    "name": "Advanced JavaScript Mastery",
+    "price": 69.99,
+    "credit": 7,
+    "body": "Dive into advanced JavaScript concepts like closures, promises, and ES6+ features."
+  },
+  {
+    "id": 5,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCD2IqovvZpdgtyn3pobll_ZeW_6F8JP6Ng&usqp=CAU",
+    "name": "Node.js Backend Development",
+    "price": 79.99,
+    "credit": 3,
+    "body": "Build scalable and efficient backend systems with Node.js and Express."
+  },
+  {
+    "id": 6,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9u4RYp1aGsV_1-EWqqFh8dooxmTyRpc3ujQ&usqp=CAU",
+    "name": "Vue.js Frontend Development",
+    "price": 54.99,
+    "credit": 6,
+    "body": "Create responsive and dynamic user interfaces with the popular front-end framework, Vue.js."
+  },
+  {
+    "id": 7,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrnnMZPmdh-Rk--eTf1O2cXqHFCuV1ldFgPQ&usqp=CAU",
+    "name": "Algorithmic Problem Solving",
+    "price": 49.99,
+    "credit": 5,
+    "body": "Introduction to algorithms and data structures for efficient problem-solving in programming."
+  },
+  {
+    "id": 8,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmT9J9QHV6iWo5ahkzG9HAI0CCSrN_FtCTYA&usqp=CAU",
+    "name": "Full-Stack Development",
+    "price": 89.99,
+    "credit": 9,
+    "body": "Learn the principles of full-stack development, covering both frontend and backend technologies."
+  },
+  {
+    "id": 9,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfpvbHgE2n13BPT46UIo2MrT831tbrI9IGiQ&usqp=CAU",
+    "name": "C++ All Masterclass Concepts",
+    "price": 80.99,
+    "credit": 5,
+    "body": "Both frontend Learn the principles of full-stack development, covering  and backend technologies."
+  }
+]
